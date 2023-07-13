@@ -1,0 +1,3 @@
+/home/mati/Work/CLionProjects/OS_Shell_Project/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/mati/Work/CLionProjects/OS_Shell_Project/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/mati/Work/CLionProjects/OS_Shell_Project/cmake-build-debug/CMakeFiles/OS_Shell_Project.dir

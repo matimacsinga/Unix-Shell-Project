@@ -1,0 +1,7 @@
+# ninja log v5
+45	63	1639934205375601560	OS_Shell_Project	51f1efc2645af8ed
+0	45	1639934205355601644	CMakeFiles/OS_Shell_Project.dir/main.c.o	8a4be4ff9ef133a2
+1	139	1641401459946568283	CMakeFiles/OS_Shell_Project.dir/main.c.o	8a4be4ff9ef133a2
+1	73	1641810404822402756	CMakeFiles/OS_Shell_Project.dir/main.c.o	8a4be4ff9ef133a2
+1	76	1641819151145967170	CMakeFiles/OS_Shell_Project.dir/main.c.o	8a4be4ff9ef133a2
+0	60	1641819286705765908	CMakeFiles/OS_Shell_Project.dir/main.c.o	8a4be4ff9ef133a2
